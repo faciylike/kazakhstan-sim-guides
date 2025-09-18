@@ -79,3 +79,10 @@ layout: default
 　　最后一个小贴士：办完卡后，让店员帮你测试一下网络是否通畅再离开营业厅。这样即使有问题，也能当场解决，避免出了门发现用不了再折返的麻烦。
 
 　　带上这份指南，相信你能在哈萨克斯坦享受到畅通无阻的网络体验，让旅行更加轻松自在！
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Kazakhstan eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/kazakhstan-data-plans)
